@@ -1,5 +1,16 @@
-## <p align="center">Todo-list</p>
+### <p align="center">Todo-list</p>
 
+## Personal todo-list
+
+- Having the ability to create, update and delete.
+
+## Group todo-list
+
+- Having the ability to create, update and delete.
+- You can only create one group todo-list.
+- You can't create a todo-list only if a user join.
+- A user who join a group todo-list only have the ability to edit a single field.
+- The owner of the group todo-list edit and delete.
 
 
 
