@@ -1,4 +1,4 @@
-### <p align="center">Todo-list</p>
+## <p align="center">Todo-list</p>
 
 ## Personal todo-list
 
